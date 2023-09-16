@@ -6,7 +6,7 @@
     "contact":"联系方式",
     "home__title":"Hi, I'm DODO939",
     "home__subtitle":"Minecraft 狂热爱好者",
-    "home__description":"春赏百花秋望月，夏沐凉风冬听雪。",
+    "home__description":"卑不过扑火流萤，微不及溺海尘埃。",
     "home__contact":"与我联系",
     "home__scroll-name":"往下滑",
     "about__title":"关于我",
@@ -42,9 +42,9 @@
     "portfolio1__title":"公告插件 based on MCDReforged",
     "portfolio1__description":"帮助服主创建和管理定时公告",
     "portfolio2__title":"一言插件 based on MCDReforged",
-    "portfolio2__description":"在服务器里发送指令欣赏来自一言(Hitokoto)的句子。",
+    "portfolio2__description":"在服务器里发送指令欣赏来自一言(Hitokoto)的句子",
     "portfolio3__title":"Chat Patches Log",
-    "portfolio3__description":"从 chat patches 模组生成的聊天记录 json 文件中提取关键信息并提高可读性。",
+    "portfolio3__description":"从 chat patches 模组生成的聊天记录 json 文件中提取关键信息并提高可读性",
 
     "contact__title":"联系方式",
     "contact__subtitle":"与我联系",
@@ -54,5 +54,4 @@
     "email__address":"yangfuyu83@gmail.com",
     "location":"位置",
     "location__detail":"湖南省"
-    
 }

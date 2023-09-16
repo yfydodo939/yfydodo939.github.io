@@ -1,6 +1,6 @@
 $(document).ready(function () {
     /*默认语言*/
-    var defaultLang = "cn";
+    var defaultLang = "en";
     $("[i18n]").i18n({
         defaultLang: defaultLang,
         filePath: "assets/i18n/",//路径配置
